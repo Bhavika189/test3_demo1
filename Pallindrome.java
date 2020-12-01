@@ -1,3 +1,4 @@
+   // simple pallindrome program which reads the input at run time
 import java.util.Scanner;
  public class Pallindrome {
     public static void main(String[] args){
@@ -16,5 +17,10 @@ import java.util.Scanner;
          System.out.println("Given word is not a pallindrome"); 
  
         }
+
+     }                                 
+}
+
      } 
 }     //this is pallindrome pgm
+
