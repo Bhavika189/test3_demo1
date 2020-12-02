@@ -5,3 +5,5 @@ Recipes:
 3. Egg curry
 4. Tomato rice
 5. Masala dosa
+6. sandwich
+7. Spicy food
